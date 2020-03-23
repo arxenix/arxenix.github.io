@@ -5,16 +5,16 @@
 body {
     width: 78ch;
     background-color: #151515;
-    color: #fff;
+    color: #ffffff;
     margin: 0 auto;
 }
 
 a {
-    color: #f00;
+    color: #4ea699;
 }
 
 a:hover {
-    color: #a00;
+    color: #216869;
 }
 
 h1, h2, h3 {
